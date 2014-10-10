@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ConsultaCEP</string>
+    <string name="titulo_pesquisa">Consulte um CEP</string>
+    <string name="label_input_cep">CEP: </string>
+    <string name="cep_invalido">Cep inválido</string>
+    <string name="problemas_conexao">Problemas com a conexão</string>
+    <string name="activity_problemas_conexao">Problemas com a conexão</string>
+    <string name="problemas_no_request">Problemas com o request</string>
+    <string name="cep_nao_encontrado">CEP não encontrado</string>
+    <string name="erro_no_servidor">Erro no servidor =/</string>
+
+</resources>
